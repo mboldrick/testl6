@@ -13,3 +13,7 @@ trim_trailing_whitespace = false
 
 [*.{yml,yaml}]
 indent_size = 2
+
+[{tailwind.config.js,webpack.mix.js}]
+indent_style = space
+indent_size = 2
